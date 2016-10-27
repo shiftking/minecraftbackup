@@ -1,35 +1,161 @@
-[00:10:44] [Server thread/INFO]: Iciie lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[00:10:44] [Server thread/INFO]: Iciie left the game
-[00:16:54] [User Authenticator #8/INFO]: UUID of player Iciie is efffc9a2-f636-4be7-9eca-f3020a008580
-[00:16:54] [Server thread/INFO]: Iciie[/64.110.201.40:64567] logged in with entity id 693274 at (62.17517440507735, 83.0, 393.8274501851237)
-[00:16:54] [Server thread/INFO]: Iciie joined the game
-[00:20:59] [Server thread/INFO]: Iciie lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[00:20:59] [Server thread/INFO]: Iciie left the game
-[06:03:46] [Server thread/INFO]: HoboInArmy lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Error while read(...): Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[06:03:46] [Server thread/INFO]: HoboInArmy left the game
-[06:32:07] [User Authenticator #9/INFO]: UUID of player HoboInArmy is a0cb0b40-f35a-481c-a6df-7332643cf4f5
-[06:32:07] [Server thread/INFO]: HoboInArmy[/207.47.199.251:53120] logged in with entity id 951753 at (185.17177311990895, 67.0, 358.8846440827728)
-[06:32:07] [Server thread/INFO]: HoboInArmy joined the game
-[06:35:54] [Server thread/INFO]: HoboInArmy lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[06:35:54] [Server thread/INFO]: HoboInArmy left the game
-[13:41:34] [User Authenticator #10/INFO]: UUID of player HoboInArmy is a0cb0b40-f35a-481c-a6df-7332643cf4f5
-[13:41:34] [Server thread/INFO]: HoboInArmy[/207.47.199.251:54596] logged in with entity id 955740 at (183.81479168878704, 73.0, 346.4571761554897)
-[13:41:34] [Server thread/INFO]: HoboInArmy joined the game
-[13:46:26] [Server thread/INFO]: HoboInArmy lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[13:46:26] [Server thread/INFO]: HoboInArmy left the game
-[13:52:53] [User Authenticator #11/INFO]: UUID of player HoboInArmy is a0cb0b40-f35a-481c-a6df-7332643cf4f5
-[13:52:53] [Server thread/INFO]: HoboInArmy[/207.47.199.251:56665] logged in with entity id 962031 at (207.6542003530818, 67.0, 345.9147302766844)
-[13:52:53] [Server thread/INFO]: HoboInArmy joined the game
-[14:00:23] [User Authenticator #12/INFO]: UUID of player HoboInArmy is a0cb0b40-f35a-481c-a6df-7332643cf4f5
-[14:00:47] [Server thread/INFO]: HoboInArmy lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[14:00:47] [Server thread/INFO]: HoboInArmy left the game
-[14:00:47] [Server thread/INFO]: HoboInArmy[/207.47.199.251:58042] logged in with entity id 969716 at (207.6542003530818, 67.0, 345.9147302766844)
-[14:00:47] [Server thread/INFO]: HoboInArmy joined the game
-[14:02:35] [Server thread/INFO]: HoboInArmy lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[14:02:35] [Server thread/INFO]: HoboInArmy left the game
-[14:24:34] [User Authenticator #13/INFO]: UUID of player HoboInArmy is a0cb0b40-f35a-481c-a6df-7332643cf4f5
-[14:24:34] [Server thread/INFO]: HoboInArmy[/207.47.199.251:58924] logged in with entity id 972031 at (205.30000001192093, 67.0, 347.9807698362122)
-[14:24:34] [Server thread/INFO]: HoboInArmy joined the game
-[14:25:28] [Server thread/WARN]: HoboInArmy moved too quickly! -290.6973050530916,-62.0,-276.59441478241223
-[14:56:17] [Server thread/INFO]: HoboInArmy lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[14:56:17] [Server thread/INFO]: HoboInArmy left the game
+[00:01:20] [Server thread/INFO]: Joedoodle has just earned the achievement [Sniper Duel]
+[00:01:29] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2273ms behind, skipping 45 tick(s)
+[00:01:29] [Server thread/WARN]: Joedoodle moved too quickly! 2.695526389632832,3.024424088213692,-9.242038852531778
+[00:01:32] [Server thread/WARN]: HoboInArmy moved too quickly! 290.40932973147807,62.0,276.88125142910974
+[00:02:19] [Server thread/INFO]: <HoboInArmy> I helped.
+[00:02:40] [Server thread/INFO]: <DecidedFate333> shooting the skeleton?
+[00:02:48] [Server thread/INFO]: <HoboInArmy> No I saved joes life.
+[00:02:53] [Server thread/INFO]: <DecidedFate333> haha
+[00:02:54] [Server thread/INFO]: <HoboInArmy> Or was that you?
+[00:03:01] [Server thread/INFO]: <DecidedFate333> I am at my base
+[00:03:02] [Server thread/INFO]: <Joedoodle> it was my
+[00:03:04] [Server thread/INFO]: <Joedoodle> me
+[00:03:05] [Server thread/INFO]: <HoboInArmy> Lol
+[00:05:36] [Server thread/INFO]: <DecidedFate333> dang, well wwill look good to me :)
+[00:07:35] [Server thread/INFO]: <HoboInArmy> Eff. 4, Unbreaking 3, Fortune 2 axe. First try.
+[00:07:53] [Server thread/INFO]: <DecidedFate333> pickaxe? or axe? either way awesome
+[00:07:57] [Server thread/INFO]: <HoboInArmy> Axe
+[00:08:06] [Server thread/INFO]: <HoboInArmy> I got the same pickaxe but it has eff. 5
+[00:08:11] [Server thread/INFO]: <DecidedFate333> could ahve used that I while ago :P
+[00:08:33] [Server thread/INFO]: <DecidedFate333> i borrowed 7 lapus from you, i am rocking
+[00:08:46] [Server thread/INFO]: <DecidedFate333> diamond pick e4, u3, f3
+[00:09:02] [Server thread/INFO]: <DecidedFate333> and diamond shovel, e4, u3, st
+[00:09:16] [Server thread/INFO]: <HoboInArmy> You owe me the shovel for that lapus.
+[00:09:31] [Server thread/INFO]: <DecidedFate333> na, I might give you 1 diamond, but not worth :P
+[00:09:41] [Server thread/INFO]: <HoboInArmy> Filthy moochers.
+[00:14:58] [Server thread/INFO]: <Joedoodle> what are you using all that acacia for ?
+[00:15:07] [Server thread/INFO]: <HoboInArmy> Nothing, Im just duplicating saplings.
+[00:15:16] [Server thread/INFO]: <HoboInArmy> We had to bring some back from far away.
+[00:15:33] [Server thread/INFO]: <HoboInArmy> Are you shooting at me from your castle?
+[00:15:37] [Server thread/INFO]: <Joedoodle> no
+[00:15:50] [Server thread/INFO]: <HoboInArmy> Where you at then?
+[00:15:55] [Server thread/INFO]: <Joedoodle> In my other tower
+[00:16:01] [Server thread/INFO]: <HoboInArmy> Other?
+[00:16:06] [Server thread/INFO]: <Joedoodle> Come lookw
+[00:17:28] [Server thread/INFO]: <Joedoodle> Im surprised you cant see it
+[00:17:32] [Server thread/INFO]: <Joedoodle> it's taller than my other tower
+[00:17:35] [Server thread/INFO]: <Joedoodle> and like right behind it
+[00:17:40] [Server thread/INFO]: <HoboInArmy> Dylan has the view distance turned down.
+[00:17:43] [Server thread/INFO]: <Joedoodle> o
+[00:18:27] [Server thread/INFO]: <HoboInArmy> I thought you were expanding the original?
+[00:19:35] [Server thread/INFO]: <HoboInArmy> What a shit tower.
+[00:20:29] [Server thread/INFO]: <Joedoodle> no
+[00:20:35] [Server thread/INFO]: <HoboInArmy> Joe it bothers me that your little castle water feeder thing isnt connected to the water fall.
+[00:20:42] [Server thread/INFO]: <Joedoodle> it is
+[00:20:44] [Server thread/INFO]: <HoboInArmy> Oh it is now.
+[00:20:45] [Server thread/INFO]: <Joedoodle> just the one lane though
+[00:20:50] [Server thread/INFO]: <HoboInArmy> Needs two or three.
+[00:20:54] [Server thread/INFO]: <HoboInArmy> My aesthetic.
+[00:20:57] [Server thread/INFO]: <Joedoodle> I'm going to be adding another lane
+[00:21:01] [Server thread/INFO]: <Joedoodle> And another row of crops
+[00:21:07] [Server thread/INFO]: <Joedoodle> Im not happy with my farm layout right now
+[00:21:13] [Server thread/INFO]: <Joedoodle> I'll come down
+[00:21:38] [Server thread/INFO]: <Joedoodle> I dont like the hut I made and the layout is garbage
+[00:21:43] [Server thread/INFO]: <Joedoodle> I don't know how to fix though
+[00:21:52] [Server thread/INFO]: <HoboInArmy> Not even enchanted armor.
+[00:21:54] [Server thread/INFO]: <HoboInArmy> Joe wth.
+[00:22:01] [Server thread/INFO]: <Joedoodle> what?
+[00:22:12] [Server thread/INFO]: <Joedoodle> I dont have rich armor like you
+[00:22:19] [Server thread/INFO]: <Joedoodle> That's why I wear this leather armor
+[00:22:23] [Server thread/INFO]: <HoboInArmy> Have you used my grinder?
+[00:22:25] [Server thread/INFO]: <HoboInArmy> Get dat xp.
+[00:22:30] [Server thread/INFO]: <Joedoodle> the uhh
+[00:22:31] [Server thread/INFO]: <Joedoodle> blaze one?
+[00:22:35] [Server thread/INFO]: <HoboInArmy> Yeah
+[00:22:39] [Server thread/INFO]: <Joedoodle> Its poop
+[00:22:43] [Server thread/INFO]: <HoboInArmy> Yeah
+[00:22:45] [Server thread/INFO]: <HoboInArmy> But mad xp.
+[00:22:49] [Server thread/INFO]: <Joedoodle> aint nobody got time to wait for them to falll down
+[00:22:53] [Server thread/INFO]: <HoboInArmy> AFK
+[00:22:57] [Server thread/INFO]: <HoboInArmy> Watch a youtube video.
+[00:22:58] [Server thread/INFO]: <Joedoodle> I did
+[00:22:59] [Server thread/INFO]: <Joedoodle> for like
+[00:23:01] [Server thread/INFO]: <Joedoodle> 4 hours
+[00:23:05] [Server thread/INFO]: <Joedoodle> they all stayed up
+[00:23:08] [Server thread/INFO]: <Joedoodle> like 3 came down
+[00:23:08] [Server thread/INFO]: <HoboInArmy> You have to AFK upstairs.
+[00:23:11] [Server thread/INFO]: <Joedoodle> I DID
+[00:23:15] [Server thread/INFO]: <HoboInArmy> Lol scrub.
+[00:23:20] [Server thread/INFO]: <HoboInArmy> They pool up fine with me.
+[00:23:27] [Server thread/INFO]: <Joedoodle> rip
+[00:23:33] [Server thread/INFO]: <Joedoodle> this guy has a zombo spawner though
+[00:23:36] [Server thread/INFO]: <Joedoodle> was using that earlier
+[00:23:36] [Server thread/INFO]: <HoboInArmy> So your house isnt even in your castle.
+[00:23:40] [Server thread/INFO]: <DecidedFate333> lol fyi no more than 20 minutes at the zombie grinder, can crash the server after half an hour
+[00:23:42] [Server thread/INFO]: <Joedoodle> Im going to expand this
+[00:23:57] [Server thread/INFO]: <DecidedFate333> like kill the stack every 20-30
+[00:24:02] [Server thread/INFO]: <HoboInArmy> I like this tower.
+[00:24:33] [Server thread/INFO]: <Joedoodle> Im planning on kicking derrick off
+[00:24:35] [Server thread/INFO]: <Joedoodle> this island
+[00:24:38] [Server thread/INFO]: <Joedoodle> and expanding out
+[00:24:44] [Server thread/INFO]: <HoboInArmy> What island?
+[00:24:48] [Server thread/INFO]: <Joedoodle> this ridge up here
+[00:24:59] [Server thread/INFO]: <HoboInArmy> Hes way over there.
+[00:25:00] [Server thread/INFO]: <Joedoodle> Building out that way
+[00:25:01] [Server thread/INFO]: <Joedoodle> Yeah
+[00:25:08] [Server thread/INFO]: <Joedoodle> I want to make like a grand castle area
+[00:25:18] [Server thread/INFO]: <Joedoodle> and then Dylans little village will be my peasentville
+[00:25:22] [Server thread/INFO]: <HoboInArmy> Sounds pimp.
+[00:25:26] [Server thread/INFO]: <Joedoodle> Don
+[00:25:27] [Server thread/INFO]: <HoboInArmy> Derricks house is ugly anyways.
+[00:25:31] [Server thread/INFO]: <Joedoodle> know how I'm going to do it though
+[00:25:49] [Server thread/INFO]: <Joedoodle> Like that little castle area over there is just going to be my library tower
+[00:25:51] [Server thread/INFO]: <Joedoodle> and enchanting area
+[00:25:54] [Server thread/INFO]: <Joedoodle> and potion area etc
+[00:26:14] [Server thread/INFO]: <HoboInArmy> Leave room and we can design a big redstone castle gate.
+[00:26:25] [Server thread/INFO]: <Joedoodle> mhmm
+[00:26:35] [Server thread/INFO]: <Joedoodle> It's either I'm going to do that
+[00:26:43] [Server thread/INFO]: <Joedoodle> or just make another smaller trower in the middle of the forest
+[00:26:46] [Server thread/INFO]: <Joedoodle> and connect the three
+[00:26:55] [Server thread/INFO]: <Joedoodle> Kinda like over there
+[00:26:58] [Server thread/INFO]: <HoboInArmy> Make walls to it.
+[00:27:00] [Server thread/INFO]: <Joedoodle> yea
+[00:27:04] [Server thread/INFO]: <DecidedFate333> lol literally building a tower in the middle of a roofed forest XD
+[00:27:06] [Server thread/INFO]: <HoboInArmy> make the giant castle a big dick.
+[00:27:15] [Server thread/INFO]: <HoboInArmy> Two balls and a bell end.
+[00:27:15] [Server thread/INFO]: <Joedoodle> BALLS AND SHAFT BB
+[00:27:54] [Server thread/INFO]: <HoboInArmy> Stole my bed!
+[00:27:56] [Server thread/INFO]: <HoboInArmy> Nigga.
+[00:27:57] [Server thread/INFO]: <Joedoodle> I did
+[00:27:59] [Server thread/INFO]: <Joedoodle> No shame
+[00:28:02] [Server thread/INFO]: <Joedoodle> except I added a bed
+[00:28:05] [Server thread/INFO]: <Joedoodle> because I am fat
+[00:28:08] [Server thread/INFO]: <Joedoodle> I need the room
+[00:28:18] [Server thread/INFO]: <HoboInArmy> I might make a room in the upstairs of my house and have a larger bedroom.
+[00:28:26] [Server thread/INFO]: <HoboInArmy> But I kind of like the smaller rooms I got going now.
+[00:28:32] [Server thread/INFO]: <Joedoodle> mhmm
+[00:28:41] [Server thread/INFO]: <HoboInArmy> Everythings functional.
+[00:28:47] [Server thread/INFO]: <Joedoodle> I don't know, I like big open spaces, and kinda spaced out
+[00:28:48] [Server thread/INFO]: <HoboInArmy> Need a amssive crowd sourced map room though.
+[00:28:51] [Server thread/INFO]: <Joedoodle> I don't like being crammed
+[00:28:59] [Server thread/INFO]: <Joedoodle> I like that idea
+[00:29:01] [Server thread/INFO]: <Joedoodle> I read the sign
+[00:29:14] [Server thread/INFO]: <Joedoodle> If you could get it to cover the whole village that would be dope
+[00:29:17] [Server thread/INFO]: <HoboInArmy> I got 4 of my area in my room but I wanna put that whole wall.
+[00:29:26] [Server thread/INFO]: <HoboInArmy> Oh it will go for tons of space.
+[00:29:55] [Server thread/INFO]: <HoboInArmy> I like open space if we share living areas.
+[00:30:00] [Server thread/INFO]: <HoboInArmy> If its just me I like buildings everywhere.
+[00:30:09] [Server thread/INFO]: <Joedoodle> That's my current problem
+[00:30:14] [Server thread/INFO]: <Joedoodle> If Dylan and Derrick didnt build up here
+[00:30:22] [Server thread/INFO]: <Joedoodle> I would already be building my huge castle idea
+[00:30:37] [Server thread/INFO]: <HoboInArmy> Just cuck derrick.
+[00:30:42] [Server thread/INFO]: <HoboInArmy> He can live in his turd shack.
+[00:30:47] [Server thread/INFO]: <Joedoodle> lol
+[00:32:42] [Server thread/INFO]: <DecidedFate333> you guys use resource packs?
+[00:32:47] [Server thread/INFO]: <Joedoodle> I used to
+[00:32:54] [Server thread/INFO]: <Joedoodle> I find being ablle to build something in vanilla better
+[00:33:05] [Server thread/INFO]: <Joedoodle> well and actually make it look decent
+[00:33:34] [Server thread/INFO]: <DecidedFate333> I definitely like the look my resource pack gives to what I got, but vanilla doesn't look as good :(
+[00:33:51] [Server thread/INFO]: <Joedoodle> I like the old school charm it gives
+[00:33:54] [Server thread/INFO]: <DecidedFate333> I will post a simple example in dischord
+[00:33:54] [Server thread/INFO]: <Joedoodle> all pixel
+[00:34:04] [Server thread/INFO]: <Joedoodle> Ill show the texture pack I use sec
+[00:34:06] [Server thread/INFO]: Joedoodle lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[00:34:06] [Server thread/INFO]: Joedoodle left the game
+[00:34:35] [User Authenticator #35/INFO]: UUID of player Joedoodle is caa41a5c-e243-42d1-9200-daa47d930584
+[00:34:35] [Server thread/INFO]: Joedoodle[/207.47.210.113:49645] logged in with entity id 1602604 at (-7.040932747720417, 108.5, 345.0514853754908)
+[00:34:35] [Server thread/INFO]: Joedoodle joined the game
+[00:34:49] [Server thread/INFO]: <DecidedFate333> putting in the 01uptime? thats the minecraft chat eh?
+[00:34:57] [Server thread/INFO]: <Joedoodle> yeah
+[00:35:03] [Server thread/INFO]: <Joedoodle> also i guess I lied I use faithful
+[00:37:03] [Server thread/INFO]: <DecidedFate333> thats faithful? what in the heck do I have haha :P
