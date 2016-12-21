@@ -1,35 +1,18 @@
-[00:01:35] [User Authenticator #47/INFO]: UUID of player Quininator is 2dd80e4a-4315-496b-82f8-1d14c10e7254
-[00:01:35] [Server thread/INFO]: Quininator[/24.72.57.116:47982] logged in with entity id 27467678 at (-1424.7937659903241, 63.0, 3074.1247869832214)
-[00:01:35] [Server thread/INFO]: Quininator joined the game
-[00:09:21] [Server thread/WARN]: Quininator moved too quickly! 155.15011139700826,-38.0,-585.0010521539532
-[00:10:55] [Server thread/WARN]: Quininator moved too quickly! -1391.9837256735564,-37.0,2725.1190662850768
-[00:17:37] [Server thread/WARN]: Quininator moved too quickly! 1391.6000000238419,37.0,-2724.9543580972395
-[00:19:11] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID e351f3a3-2e04-4456-bbab-7da2fa97644d
-[00:19:11] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 51f50be1-2faa-4441-b53e-c6dee4ad594a
-[00:19:13] [Server thread/WARN]: Quininator moved too quickly! 290.21094563645477,62.0,277.4405242348351
-[00:38:50] [User Authenticator #48/INFO]: UUID of player Shiftking is 11653c19-e4ca-44b6-b960-d5d4864d2390
-[00:38:50] [Server thread/INFO]: Shiftking[/71.17.18.85:65323] logged in with entity id 27512551 at (-1586.7204765186023, 64.0, 3131.4478181448585)
-[00:38:50] [Server thread/INFO]: Shiftking joined the game
-[00:39:41] [Server thread/INFO]: <Quininator> hey
-[00:39:50] [Server thread/INFO]: <Quininator> did you get my sword and pick
-[00:42:11] [Server thread/INFO]: <Quininator> oi
-[00:42:22] [Server thread/WARN]: Shiftking moved too quickly! 1393.425827945919,37.0,-2724.854455633045
-[00:42:25] [Server thread/INFO]: <Quininator> look at this
-[00:42:44] [Server thread/INFO]: <Shiftking> I see it what?>
-[00:44:39] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID e351f3a3-2e04-4456-bbab-7da2fa97644d
-[00:44:39] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 51f50be1-2faa-4441-b53e-c6dee4ad594a
-[00:44:41] [Server thread/WARN]: Shiftking moved too quickly! 290.47233889974524,62.0,276.4487526678473
-[00:48:18] [Server thread/INFO]: <Quininator> did you get my sword and pick
-[00:48:35] [Server thread/INFO]: <Shiftking> everything that I got was in that cheast
-[00:48:41] [Server thread/INFO]: <Quininator> fuck
-[00:48:55] [Server thread/INFO]: <Shiftking> where do you want this sand?
-[01:11:10] [User Authenticator #49/INFO]: UUID of player Iciie is efffc9a2-f636-4be7-9eca-f3020a008580
-[01:11:10] [Server thread/INFO]: Iciie[/69.11.48.34:51045] logged in with entity id 27558814 at (5811.84097265537, 63.0, -2745.149084470506)
-[01:11:10] [Server thread/INFO]: Iciie joined the game
-[01:11:44] [Server thread/INFO]: Iciie lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[01:11:44] [Server thread/INFO]: Iciie left the game
-[01:19:43] [Server thread/INFO]: Shiftking lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[01:19:43] [Server thread/INFO]: Shiftking left the game
-[01:19:44] [Server thread/INFO]: Quininator lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[01:19:44] [Server thread/INFO]: Quininator left the game
-[01:20:33] [Server Shutdown Thread/INFO]: Stopping server
+[00:58:15] [Server thread/INFO]: Starting minecraft server version 1.11.1
+[00:58:15] [Server thread/INFO]: Loading properties
+[00:58:15] [Server thread/INFO]: Default game type: SURVIVAL
+[00:58:15] [Server thread/INFO]: Generating keypair
+[00:58:16] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:58:16] [Server thread/INFO]: Using epoll channel type
+[00:58:16] [Server thread/INFO]: Preparing level "world"
+[00:58:16] [Server thread/INFO]: Preparing start region for level 0
+[00:58:18] [Server thread/INFO]: Preparing spawn area: 0%
+[00:58:19] [Server thread/INFO]: Preparing spawn area: 49%
+[00:58:19] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 51f50be1-2faa-4441-b53e-c6dee4ad594a
+[00:58:19] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID e351f3a3-2e04-4456-bbab-7da2fa97644d
+[00:58:19] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID a72a6ea5-316a-4e5b-940d-1b68bcdced57
+[00:58:20] [Server thread/INFO]: Done (4.003s)! For help, type "help" or "?"
+[00:58:39] [Server Shutdown Thread/INFO]: Stopping server
+[00:58:39] [Server Shutdown Thread/INFO]: Saving players
+[00:58:39] [Server Shutdown Thread/INFO]: Saving worlds
+[00:58:39] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/Overworld
