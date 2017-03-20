@@ -1,18 +1,1 @@
-[00:58:15] [Server thread/INFO]: Starting minecraft server version 1.11.1
-[00:58:15] [Server thread/INFO]: Loading properties
-[00:58:15] [Server thread/INFO]: Default game type: SURVIVAL
-[00:58:15] [Server thread/INFO]: Generating keypair
-[00:58:16] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:58:16] [Server thread/INFO]: Using epoll channel type
-[00:58:16] [Server thread/INFO]: Preparing level "world"
-[00:58:16] [Server thread/INFO]: Preparing start region for level 0
-[00:58:18] [Server thread/INFO]: Preparing spawn area: 0%
-[00:58:19] [Server thread/INFO]: Preparing spawn area: 49%
-[00:58:19] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 51f50be1-2faa-4441-b53e-c6dee4ad594a
-[00:58:19] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID e351f3a3-2e04-4456-bbab-7da2fa97644d
-[00:58:19] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID a72a6ea5-316a-4e5b-940d-1b68bcdced57
-[00:58:20] [Server thread/INFO]: Done (4.003s)! For help, type "help" or "?"
-[00:58:39] [Server Shutdown Thread/INFO]: Stopping server
-[00:58:39] [Server Shutdown Thread/INFO]: Saving players
-[00:58:39] [Server Shutdown Thread/INFO]: Saving worlds
-[00:58:39] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/Overworld
+[23:57:10] [Server Shutdown Thread/INFO]: Stopping server
